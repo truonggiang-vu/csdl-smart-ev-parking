@@ -1,7 +1,6 @@
 # Smart City EV Charging & Parking Management
 
 **Bài tập lớn môn học: Cơ sở dữ liệu**  
-**Giảng viên hướng dẫn:** Lê Hà Thanh
 
 ## Nhóm thực hiện: 3 CHANG LINH NGU LAM
 1. Phạm Trung Đức – n24dccn108@student.ptithcm.edu.vn
