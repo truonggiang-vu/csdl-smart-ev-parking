@@ -1,4 +1,4 @@
-# Smart City EV Charging & Parkin Management
+# Smart City EV Charging & Parking Management
 
 **Bài tập lớn môn học: Cơ sở dữ liệu**  
 
