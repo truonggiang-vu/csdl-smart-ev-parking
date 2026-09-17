@@ -15,7 +15,7 @@ Dự án xây dựng hệ thống cơ sở dữ liệu quản lý bãi đỗ xe 
 * Phục vụ cả hai đối tượng: Người dùng đã đăng ký và Khách vãng lai.
 
 ## Cấu trúc Repository
-* `docs/`: Chứa tài liệu đặc tả dự án và báo cáo chi tiết (PDF) của nhóm.
+* `docs/`: Chứa tài liệu đặc tả dự án và báo cáo chi tiết của nhóm.
 * `database/`: (Sắp cập nhật) Chứa các script SQL khởi tạo bảng, ràng buộc, views, triggers và dữ liệu mẫu.
 
 ## Tiến độ hiện tại
