@@ -21,7 +21,7 @@ Dự án xây dựng hệ thống cơ sở dữ liệu quản lý bãi đỗ xe 
 ## Tiến độ hiện tại
 - [x] 1. Đặc tả yêu cầu & Quy tắc nghiệp vụ (Business Rules)
 - [x] 2.1 Mô hình khái niệm (ER/EER Diagram)
-- [ ] 2.2 Ánh xạ lược đồ logic (Logical Schema Mapping)
+- [x] 2.2 Ánh xạ lược đồ logic (Logical Schema Mapping)
 - [ ] 3. Từ điển dữ liệu (Data Dictionary)
 - [ ] 4. Triển khai CSDL (DDL/DML Scripts)
 - [ ] 5. Phân quyền & Bảo mật (RBAC)
