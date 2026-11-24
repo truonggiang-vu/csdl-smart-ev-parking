@@ -16,12 +16,11 @@ Dự án xây dựng hệ thống cơ sở dữ liệu quản lý bãi đỗ xe 
 
 ## Cấu trúc Repository
 * `docs/`: Chứa tài liệu đặc tả dự án và báo cáo chi tiết của nhóm.
-* `database/`: (Sắp cập nhật) Chứa các script SQL khởi tạo bảng, ràng buộc, views, triggers và dữ liệu mẫu.
+* `database/`:Chứa các script SQL khởi tạo bảng, ràng buộc, views, triggers và dữ liệu mẫu.
 
 ## Tiến độ hiện tại
 - [x] 1. Đặc tả yêu cầu & Quy tắc nghiệp vụ (Business Rules)
-- [x] 2.1 Mô hình khái niệm (ER/EER Diagram)
-- [x] 2.2 Ánh xạ lược đồ logic (Logical Schema Mapping)
-- [ ] 3. Từ điển dữ liệu (Data Dictionary)
-- [ ] 4. Triển khai CSDL (DDL/DML Scripts)
+- [x] 2. Thiết kế cơ sở dữ liệu (Database Design)
+- [x] 3. Từ điển dữ liệu (Data Dictionary)
+- [x] 4. Triển khai CSDL (DDL/DML Scripts)
 - [ ] 5. Phân quyền & Bảo mật (RBAC)
